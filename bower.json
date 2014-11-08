@@ -7,6 +7,7 @@
     "angular-mocks": "~1.2.x",
     "angular-resource": "~1.2.X",
     "html5-boilerplate": "~4.3.0",
-    "bootstrap": "~3.3.x"
+    "bootstrap": "~3.3.x",
+    "angular-google-auth": "latest"
   }
 }
